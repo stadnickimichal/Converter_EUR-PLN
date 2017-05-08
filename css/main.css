@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(247,247,247);
+}
+.container{
+    margin: 80px auto 0 auto;
+    max-width: 600px;
+    font-size: 40px;
+}
+.title{
+    font-size: 30px;
+}
+.conv{
+    background-color: #ffffff;
+    padding: 13px;
+    margin-bottom: 25px;
+}
+.conv__header{
+    font-size: 15px;
+}
+.conv__btnDiv{
+    overflow: auto;
+    border: 1px rgb(200,200,200) solid;
+    border-radius: 15px;
+}
+.conv__input{
+    width: 50%;
+    height: 80px;
+    border: 0;
+    padding-left: 10px;
+}
+.conv__btn{
+    width: 50%;
+    height: 80px;
+    float: right;
+    border: 0;
+    background-color: rgb(89, 217, 153);
+    color: #ffffff;
+    font-size: 22px;
+}
+.prev{
+    background-color: #ffffff;
+    width: 270px;
+    height: 130px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 7px;
+}
+.prev p{
+    font-size: 15px;
+    color: rgb(143,143,143);
+}
+.time{
+    font-size: 14px;
+    margin-bottom: 15px;
+    color: rgb(156,156,156);
+}
